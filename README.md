@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.1 - WELL POD 3](https://github.com/Chauvet-Pro/WELLPOD3/blob/f33704ab515cd3eb35bbb6347b044bff9ded257e/firmware/V1.1.zip)
+- Fixes minor RDM issues
+- Improves battery runtime to align with all runtime presets
+
 [V1.0.5 - WELL POD 3](https://github.com/Chauvet-Pro/WELLPOD3/blob/9c01333acc4ae90a7c592460b7a4b0b9120d9d17/firmware/V1.0.5.zip)
 - Adds Charge Light Indicator On/Off options in Display Menu and RDM
 
